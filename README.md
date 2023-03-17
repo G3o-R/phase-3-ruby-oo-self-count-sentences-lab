@@ -154,3 +154,5 @@ passing.
 - [Ruby Regular Expression Editor](https://rubular.com/)
 
 [ruby regex]: https://www.rubyguides.com/2015/06/ruby-regex/
+
+https://github.com/G3o-R/phase-3-ruby-oo-self-count-sentences-lab
